@@ -1,1 +1,25 @@
 /* Add CSS Styling */
+
+.sans-serif {
+    font-size: 16px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: pink;
+}
+
+.lg-text {
+    font-size: 24px;
+}
+
+#blue-times {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 48px;
+    color: blue;
+
+}
+
+#green-times {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 24px;
+    background-color: lightgreen;
+}
